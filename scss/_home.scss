@@ -1,0 +1,27 @@
+
+
+.home{
+    background: url(../images/Rectangle\ 2.png)
+    padding-top:155px;
+    padding-bottom:220px;
+
+    
+    &__rectangle{
+        margin:0 auto;
+        width:700px;
+        height: 200px;
+        border:1 px solid $gold;
+    }
+}
+
+&__title{
+    text-align: center;
+    font-size: 34px;
+    color:white;
+    margin-top: 40px;
+}
+&__descr{
+    color;white;
+    text-align:center;
+    margin-top: 40px;
+}
